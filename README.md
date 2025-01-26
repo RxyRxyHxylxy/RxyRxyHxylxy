@@ -1,6 +1,6 @@
 # Welcome, my name is Raymundo Garcia.
 ### I'm an aspiring QA Engineer, with a bachelor's degree in computer systems engineering
-![Header](./your-header-image-name.png)
+![Header](./header.jpg)
 
 <!--
 **RxyRxyHxylxy/RxyRxyHxylxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
