@@ -7,6 +7,7 @@ Recently, I graduated from college with a bachelor’s degree in computer system
 
 
 ## Skills
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)</br>
 
 <!--
 **RxyRxyHxylxy/RxyRxyHxylxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
