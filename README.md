@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="./header.jpg" width="800"/> </br>
 </div>
-[![LinkedIn Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymundoacg/) </br>
+
 ## 👨‍💻 About me:
 I'm currently looking for a chance to start professionally in the QA industry. I took a break from working to focus on studying, so I could get a job that I could be more passionate about. </br>
 Recently, I graduated from college with a bachelor’s degree in computer systems engineering; and decided to specialize as a Quality Analyst, so I enrolled on a QA Engineering Bootcamp, which I also concluded as well. </br>
