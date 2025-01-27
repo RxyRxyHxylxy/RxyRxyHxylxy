@@ -1,5 +1,5 @@
-# <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome, my name is Raymundo Garcia. <img src="./pngwing.com.png" alt="cute_hamtaro" width="60px"/>
-### I'm an aspiring QA Engineer, with a bachelor's degree in computer systems engineering.
+# <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome, my name is Raymundo Garcia. <img src="./pngwing.com.png" alt="cute_hamtaro" width="80px"/>
+### I'm an aspiring QA Engineer with a bachelor's degree in computer systems engineering.
 ![Header](./header.jpg)
 
 I'm currently looking for a chance to start professionally in the QA industry, since my previous experiences have been as a Customer Service Representative for different companies, but I took a break to focus on studying to get a job I could be more passionate about. </br>
