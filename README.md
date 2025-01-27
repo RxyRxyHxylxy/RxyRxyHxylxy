@@ -1,4 +1,4 @@
-# Welcome, my name is Raymundo Garcia. ✨ <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+# Welcome, my name is Raymundo Garcia. <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <img src="./pngwing.com.png" alt="cute_hamtaro" width="40px"/>
 ### I'm an aspiring QA Engineer, with a bachelor's degree in computer systems engineering.
 ![Header](./header.jpg)
 
