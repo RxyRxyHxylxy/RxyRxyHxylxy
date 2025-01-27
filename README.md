@@ -2,7 +2,7 @@
 ### I'm an aspiring QA Engineer with a bachelor's degree in computer systems engineering.
 <div id="header" align="center">
   <img decoding="async" src="./header.jpg" width="800"/> </br>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/raymundoacg/)
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">(https://www.linkedin.com/in/raymundoacg/)
 </div>
 
 ## 👨‍💻 About me:
