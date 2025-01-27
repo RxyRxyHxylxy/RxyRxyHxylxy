@@ -8,6 +8,10 @@ Recently, I graduated from college with a bachelor’s degree in computer system
 
 ## Skills
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)</br>
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)</br>
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)</br>
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)</br>
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)</br>
 
 <!--
 **RxyRxyHxylxy/RxyRxyHxylxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
