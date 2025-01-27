@@ -42,4 +42,4 @@ My driving forces are: </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymundoacg/)
 
 <div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=RxyRxyHxylxy.RxyRxyHxylxy&color=00cf00" alt=""/>
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=RxyRxyHxylxy&color=00cf00" alt=""/>
