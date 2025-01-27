@@ -2,6 +2,7 @@
 ### I'm an aspiring QA Engineer with a bachelor's degree in computer systems engineering.
 <div id="header" align="center">
   <img src="./header.jpg" width="800"/> </br>
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
 </div>
 
 ## 👨‍💻 About me:
