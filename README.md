@@ -2,7 +2,6 @@
 ### I'm an aspiring QA Engineer with a bachelor's degree in computer systems engineering.
 <div id="header" align="center">
   <img src="./header.jpg" width="800"/> </br>
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
 </div>
 
 ## 👨‍💻 About me:
@@ -26,6 +25,7 @@ My driving forces are: </br>
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)</br>
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)</br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)</br>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
 
 <!--
 **RxyRxyHxylxy/RxyRxyHxylxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
