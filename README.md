@@ -4,11 +4,11 @@
 
 I'm currently looking for a chance to start professionally in the QA industry, since my previous experiences have been as a Customer Service Representative for different companies, but I took a break to focus on studying to get a job I could be more passionate about. 
 Recently, I graduated from college with a bachelor’s degree in computer systems engineering; and I decided to specialize as a Quality Analyst, so I did a QA Engineering Bootcamp as well, which I also concluded already. My driving forces are:
-◘ Learning new things
-◘ Technology
-◘ Worldwide Cuisine
-◘ Fine Arts
-◘ Videogames
+◘ Learning new things </br>
+◘ Technology </br>
+◘ Worldwide Cuisine </br>
+◘ Fine Arts </br>
+◘ Videogames </br>
 
 
 ## Skills
