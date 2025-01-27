@@ -1,7 +1,7 @@
 # <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome! My name is Raymundo Garcia. <img src="./pngwing.com.png" alt="cute_hamtaro" width="80px"/>
 ### I'm an aspiring QA Engineer with a bachelor's degree in computer systems engineering.
 <div id="header" align="center">
-  <img decoding="async" src="./header.jpg" width="800"/>
+  <img decoding="async" src="./header.jpg" width="800"/> </br>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/raymundoacg/)
 </div>
 
