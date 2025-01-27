@@ -1,4 +1,4 @@
-# <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome, my name is Raymundo Garcia. <img src="./pngwing.com.png" alt="cute_hamtaro" width="80px"/>
+# <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome! My name is Raymundo Garcia. <img src="./pngwing.com.png" alt="cute_hamtaro" width="80px"/>
 ### I'm an aspiring QA Engineer with a bachelor's degree in computer systems engineering.
 ![Header](./header.jpg)
 
