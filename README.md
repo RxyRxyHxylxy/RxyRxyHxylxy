@@ -1,4 +1,4 @@
-# Welcome, my name is Raymundo Garcia. ✨
+# Welcome, my name is Raymundo Garcia. ✨ ![girlwithheadphones_titlegif](./d9xebah-42e88b18-4640-47ab-ab3f-4c82ed4fa429.gif)
 ### I'm an aspiring QA Engineer, with a bachelor's degree in computer systems engineering.
 ![Header](./header.jpg)
 
