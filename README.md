@@ -3,8 +3,10 @@
 ![Header](./header.jpg)
 
 ## 👨‍💻 About me:
-I'm currently looking for a chance to start professionally in the QA industry. My previous experiences have been as a Customer Service Representative for different companies, but I took a break to focus on studying to get a job I could be more passionate about. </br>
-Recently, I graduated from college with a bachelor’s degree in computer systems engineering; and I decided to specialize as a Quality Analyst, so I did a QA Engineering Bootcamp as well, which I also concluded already. </br> </br>
+I'm currently looking for a chance to start professionally in the QA industry. I took a break from working to focus on studying, so I could get a job that I could be more passionate about. </br>
+Recently, I graduated from college with a bachelor’s degree in computer systems engineering; and decided to specialize as a Quality Analyst, so I enrolled on a QA Engineering Bootcamp, which I also concluded as well. </br>
+I enjoy developing code in order to execute test cases, and verifying that the app's features are working correctly, since I've had bad experiences with apps in the past myself, </br>
+and I really value the customer's satisfaction since I've previously worked as a Customer Service Representative.</br> </br>
 My driving forces are: </br>
 ⦾ Excel at anything I do! </br>
 ⦾ Learning new things. </br>
