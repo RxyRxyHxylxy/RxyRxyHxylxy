@@ -1,10 +1,9 @@
 # <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome! My name is Raymundo Garcia. <img src="./pngwing.com.png" alt="cute_hamtaro" width="80px"/>
 ### I'm an aspiring QA Engineer with a bachelor's degree in computer systems engineering.
 <div id="header" align="center">
-  <img decoding="async" src="./header.jpg" width="800"/> </br>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">(https://www.linkedin.com/in/raymundoacg/)
+  <img src="./header.jpg" width="800"/> </br>
 </div>
-
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymundoacg/)
 ## 👨‍💻 About me:
 I'm currently looking for a chance to start professionally in the QA industry. I took a break from working to focus on studying, so I could get a job that I could be more passionate about. </br>
 Recently, I graduated from college with a bachelor’s degree in computer systems engineering; and decided to specialize as a Quality Analyst, so I enrolled on a QA Engineering Bootcamp, which I also concluded as well. </br>
