@@ -2,8 +2,13 @@
 ### I'm an aspiring QA Engineer, with a bachelor's degree in computer systems engineering.
 ![Header](./header.jpg)
 
-I am currently looking for a chance to start professionally in the QA industry, since my previous experiences have been as a Customer Service Representative for different companies, but I took a break to focus on studying to get a job I could be more passionate about. 
-Recently, I graduated from college with a bachelor’s degree in computer systems engineering; and I decided to specialize as a Quality Analyst, so I did a QA Engineering Bootcamp as well, which I also concluded already.
+I'm currently looking for a chance to start professionally in the QA industry, since my previous experiences have been as a Customer Service Representative for different companies, but I took a break to focus on studying to get a job I could be more passionate about. 
+Recently, I graduated from college with a bachelor’s degree in computer systems engineering; and I decided to specialize as a Quality Analyst, so I did a QA Engineering Bootcamp as well, which I also concluded already. My driving forces are:
+◘ Learning new things
+◘ Technology
+◘ Worldwide Cuisine
+◘ Fine Arts
+◘ Videogames
 
 
 ## Skills
@@ -11,7 +16,7 @@ Recently, I graduated from college with a bachelor’s degree in computer system
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)</br>
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)</br>
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)</br>
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)</br>
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)</br>
 
 <!--
 **RxyRxyHxylxy/RxyRxyHxylxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
